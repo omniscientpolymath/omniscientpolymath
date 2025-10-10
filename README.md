@@ -2,7 +2,7 @@
 <!--
 <h1 align="center">Hello World 👋</h1>
 -->
-![counter](https://komarev.com/ghpvc/?username=joypreetsinghbhullar&color=green)
+![counter](https://komarev.com/ghpvc/?username=omniscientpolymath&color=green)
 
 <h3 align="center"></h3>
 <p align="center">
@@ -18,14 +18,14 @@
   
   <summary>Coding Stats</summary>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joypreetsinghbhullar&show_icons=true&theme=dark&hide_border=true)</a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joypreetsinghbhullar&theme=dark&background=000000)](https://git.io/streak-stats)</a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joypreetsinghbhullar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=omniscientpolymath&show_icons=true&theme=dark&hide_border=true)</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omniscientpolymath&theme=dark&background=000000)](https://git.io/streak-stats)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omniscientpolymath&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 
 <!--
-**joypreetsinghbhullar/joypreetsinghbhullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omniscientpolymath/omniscientpolymath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
