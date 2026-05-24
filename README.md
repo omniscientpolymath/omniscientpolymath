@@ -2,6 +2,7 @@
 <!--
 <h1 align="center">Hello World 👋</h1>
 -->
+> THIS PROFILE README is currently broken — will fix soontm
 ![counter](https://komarev.com/ghpvc/?username=omniscientpolymath&color=green)
 
 <h3 align="center"></h3>
